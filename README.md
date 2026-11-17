@@ -47,4 +47,19 @@ Live and continuously improving.
 
 ---
 
-**Built with curiosity, learning, and independent development.**
+Built with curiosity, learning, and independent development.
+
+## 📸 Project Screenshots
+
+### Homepage
+![Qrifo Homepage](screenshots/homepage.png)
+
+### QR Code Generator
+![QR Generator](screenshots/qr-generator.png)
+
+### Barcode Generator
+![Barcode Generator](screenshots/barcode-generator.png)
+
+### AI Scanner
+![AI Scanner](screenshots/ai-scanner.png)
+
