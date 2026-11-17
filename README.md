@@ -48,5 +48,19 @@ Live and continuously improving.
 ---
 
 Built with curiosity, learning, and independent development.
+## 📸 Screenshots
 
+### Home Page
+[![Qrifo Home](screenshots/qrifo-home.png)](https://qrifo.com)
+
+### WhatsApp QR Code Generator
+[![WhatsApp QR Generator](screenshots/qrifo-whatsapp-qr-generator.png)](https://qrifo.com)
+
+### QR Code & Barcode Scanner (with AI Explain)
+[![QR Scanner](screenshots/qrifo-qr-scanner.png)](https://qrifo.com)
+
+### Barcode Generator
+[![Barcode Generator](screenshots/qrifo-barcode-generator.png)](https://qrifo.com)
+
+🔗 **Live site:** [qrifo.com](https://qrifo.com)
 
