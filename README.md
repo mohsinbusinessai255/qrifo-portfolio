@@ -4,7 +4,7 @@
 
 Qrifo is a web-based platform that provides free QR code generation, barcode generation, and scanning tools, with AI-powered explanations to help users understand scanned results.
 
-## 🚀 Key Features
+##  Key Features
 
 - QR Code Generator
 - Barcode Generator
